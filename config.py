@@ -1,0 +1,3 @@
+token = '6037353867:AAGVBrmfpyfDS59H8aUPAKP7MV1nAlNYXOM'
+
+payments_token = '381764678:TEST:54730'
